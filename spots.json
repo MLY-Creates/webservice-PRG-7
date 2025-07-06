@@ -1,14 +1,26 @@
 [
   {
     "Arcade": "Sir Winston Schiedam",
-    "State" : "Excellent",
+    "State" : "Good",
     "longitude": "51.92425268652557",
     "latitude": "4.406154013006142"
   },
   {
+    "Arcade": "Pixel Arcade",
+    "State" : "Excellent",
+    "longitude": "51.69661477523627",
+    "latitude": "5.298765628836319"
+  },
+  {
     "Arcade": "Gamestate De Kuip",
-    "State" : "Decent",
+    "State" : "Poor",
     "longitude": "51.89698585929358",
     "latitude": "4.524778768826454"
+  },
+  {
+    "Arcade": "GameState Den Haag",
+    "State" : "Excellent",
+    "longitude": "52.076168612622745",
+    "latitude": "4.30844994199329"
   }
 ]
